@@ -20,4 +20,4 @@ This project uses Foursquare private API keys to fetch data from Foursquare API.
 ### To show the notebook with visualizations
 
 Since GitHub does not render Jupyter Notebook, you can use the following link to see the visualizations.
-https://nbviewer.jupyter.org/github/guldenturgay/Coursera_Capstone/blob/master/Capstone_the_battle_of_neighborhoods.ipynb
+https://nbviewer.jupyter.org/github/guldenturgay/airbnb-data-analysis/blob/master/Airbnb%20Listing%20Prices%20and%20Venues%20Data%20Analysis%20of%20Seattle-checkpoint.ipynb
